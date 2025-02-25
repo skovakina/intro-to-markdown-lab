@@ -1,6 +1,7 @@
 # How to Build the Perfect Sandwich
 
 Creating the perfect sandwich is all about balance. Here’s how to do it:
+![alt text](image.png)
 
 ---
 
@@ -10,6 +11,8 @@ Creating the perfect sandwich is all about balance. Here’s how to do it:
 - **Ciabatta**: Crispy outside, soft inside.
 - **Whole Wheat**: Nutty and wholesome.
 - **Rye**: Bold flavor, great with deli meats.
+
+> **Tip:** Lightly toast your bread for extra crunch.
 
 ---
 
@@ -45,6 +48,8 @@ Creating the perfect sandwich is all about balance. Here’s how to do it:
 - **Swiss**: Mild and nutty.
 - **Mozzarella**: Creamy and stretchy.
 - **Goat Cheese**: Tangy and bold.
+
+> **Tip:** Melted cheese works great for grilled sandwiches.
 
 ---
 
